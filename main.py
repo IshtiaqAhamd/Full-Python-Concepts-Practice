@@ -10,4 +10,4 @@ elif 33 <= percentage <= 49:
 elif percentage > 100:
     print("Invalid Percentage")
 else:
-    print("Fail")
+    print("Fail Perc")
